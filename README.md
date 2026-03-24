@@ -24,6 +24,11 @@ This software is developed exclusively for use within our team.
 - There is **no guarantee of support**, bug fixes, or updates.
 - Use at your own risk and share knowledge within the team as needed.
 
+### 5. Request Regarding Visibility
+- This repository may occasionally be discovered by individuals outside the team.
+- If you are not a member of the team, we kindly ask that you refrain from sharing, redistributing, or publicizing this repository.
+Your understanding and cooperation are greatly appreciated.
+
 ---
 
 By using this software, you acknowledge that you have read and agreed to the above terms.
